@@ -18,5 +18,6 @@
       "matches": ["https://www.facebook.com/*"],
       "js": ["/content.js"]
     }
-  ]
+  ],
+  "permissions": ["tabs", "activeTab"]
 }
